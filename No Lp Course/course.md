@@ -4,5 +4,6 @@ isAvailable: true
 isPremium: false
 categories: 
     - docker
-learningPaths: []
+learningPaths: 
+    - Docker Test Scenario
 complexity: advance
