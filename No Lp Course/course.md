@@ -4,8 +4,5 @@ isAvailable: true
 isPremium: true
 categories: 
     - docker
-    - golang
-    - python
-    - kubernetes
 learningPaths: []
 complexity: advance
