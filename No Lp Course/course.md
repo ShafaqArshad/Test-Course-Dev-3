@@ -7,6 +7,5 @@ categories:
     - golang
     - python
     - kubernetes
-learningPaths: 
-    - Test Docker Sa
+learningPaths: []
 complexity: advance
