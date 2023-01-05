@@ -7,5 +7,5 @@ categories:
     - kubernetes
     - golang
 learningPaths: 
-    - Golang Lp in Course 
+    - Golang Lp In Course 
 complexity: advance
